@@ -1,0 +1,10 @@
+(librepcb_component_category 690f2885-6712-4852-b4a7-da8138a24a1e
+ (name "Registers")
+ (description "")
+ (keywords "")
+ (author "Ouabache Design Works")
+ (version "0.1")
+ (created 2018-10-20T23:46:58Z)
+ (deprecated false)
+ (parent 34cb9624-9d3d-4656-aadb-07a9a259360a)
+)
