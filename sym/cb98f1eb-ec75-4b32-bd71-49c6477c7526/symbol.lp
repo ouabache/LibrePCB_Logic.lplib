@@ -23,17 +23,12 @@
   (vertex (position 0.0 -7.6) (angle 60.0))
   (vertex (position 12.7 0.0) (angle 60.0))
   (vertex (position 0.0 7.6) (angle 0.0))
-  (vertex (position -5.08 7.6) (angle 0.0))
+  (vertex (position -5.08 7.6) (angle -60.0))
+    (vertex (position -5.08 -7.6) (angle 0.0))
 
 
 )
 
- (polygon 362646c0-7ccf-4231-af58-138b28c7594b (layer sym_outlines)
-  (width 0.254) (fill false) (grab_area true)
-  (vertex (position -5.08 -7.6) (angle 60.0))
-  (vertex (position -5.08 7.6) (angle 0.0))
- 
- )
 
 
  (text 0f85061e-b746-4de0-83ed-825d8875b6f4 (layer sym_outlines) (value "{{NAME}}")
