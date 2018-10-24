@@ -27,4 +27,7 @@
  (text eeafa890-d580-4577-9253-ef4d0702585a (layer sym_outlines) (value "{{NAME}}")
   (align left bottom) (height 2.54) (position -5.08 7.62) (rotation 0.0)
  )
+ (text a811d4be-ebb2-4c50-b61d-ce7a95faa641 (layer sym_outlines) (value "{{VALUE}}")
+  (align left bottom) (height 2.54) (position -5.08 -12.7) (rotation 0.0)
+ )
 )

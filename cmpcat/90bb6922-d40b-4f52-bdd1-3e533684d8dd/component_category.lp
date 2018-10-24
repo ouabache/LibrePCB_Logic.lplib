@@ -1,0 +1,10 @@
+(librepcb_component_category 90bb6922-d40b-4f52-bdd1-3e533684d8dd
+ (name "Connectors")
+ (description "")
+ (keywords "")
+ (author "ouabache design works")
+ (version "0.1")
+ (created 2018-10-22T15:59:39Z)
+ (deprecated false)
+ (parent none)
+)

@@ -1,0 +1,10 @@
+(librepcb_component_category 4d03edaf-936c-4270-9512-9f7a310e0028
+ (name "MEMISTORS")
+ (description "")
+ (keywords "")
+ (author "ouabache design works")
+ (version "0.1")
+ (created 2018-10-22T15:52:24Z)
+ (deprecated false)
+ (parent 9a25af45-d6a3-4c5a-af08-d68a148e9ca0)
+)

@@ -16,7 +16,6 @@
  (pin 6950aa76-4756-4f82-961c-60bea6bcb2d2 (name "OUT")
   (position 17.78 0.0) (rotation 180.0) (length 5.08)
  )
-
  (polygon f3e5725d-8fc3-4eab-9d80-a25374f8c8a5 (layer sym_outlines)
   (width 0.254) (fill false) (grab_area true)
   (vertex (position -5.08 -7.6) (angle 0.0))
@@ -24,22 +23,20 @@
   (vertex (position 12.7 0.0) (angle 60.0))
   (vertex (position 0.0 7.6) (angle 0.0))
   (vertex (position -5.08 7.6) (angle -60.0))
- (vertex (position -5.08 -7.6) (angle 0.0))
-)
-
-
-
-
+  (vertex (position -5.08 -7.6) (angle 0.0))
+ )
  (polygon 362646c0-7ccf-4231-af58-138b28c7594b (layer sym_outlines)
-  (width 0.254) (fill false) (grab_area true)
+  (width 0.254) (fill false) (grab_area false)
   (vertex (position -6.5 -7.6) (angle 60.0))
   (vertex (position -6.5 7.62) (angle 0.0))
  )
-
  (circle 7da21dc5-1819-4b3a-b149-719fe8a780c7 (layer sym_outlines)
   (width 0.254) (fill false) (grab_area true) (diameter 2.54) (position 13.9 0.0)
  )
  (text 71a868ee-8025-4192-a6b1-05011c8cef19 (layer sym_outlines) (value "{{NAME}}")
-  (align left bottom) (height 2.54) (position -2.54 7.62) (rotation 0.0)
+  (align left bottom) (height 2.54) (position -5.08 7.62) (rotation 0.0)
+ )
+ (text 2ed4bbef-96ab-4215-b7fe-321e7a5013f7 (layer sym_outlines) (value "{{VALUE}}")
+  (align left bottom) (height 2.54) (position -5.08 -12.7) (rotation 0.0)
  )
 )

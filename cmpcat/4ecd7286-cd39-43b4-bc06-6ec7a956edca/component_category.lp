@@ -1,0 +1,10 @@
+(librepcb_component_category 4ecd7286-cd39-43b4-bc06-6ec7a956edca
+ (name "PINs")
+ (description "")
+ (keywords "")
+ (author "ouabache design works")
+ (version "0.1")
+ (created 2018-10-23T18:09:15Z)
+ (deprecated false)
+ (parent none)
+)

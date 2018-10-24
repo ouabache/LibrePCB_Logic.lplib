@@ -23,19 +23,17 @@
   (vertex (position 12.7 0.0) (angle 60.0))
   (vertex (position 0.0 7.6) (angle 0.0))
   (vertex (position -5.08 7.6) (angle -60.0))
-  (vertex (position -5.08 -7.6) (angle 0.0)) 
-  
-)
-
-
+  (vertex (position -5.08 -7.6) (angle 0.0))
+ )
  (polygon 362646c0-7ccf-4231-af58-138b28c7594b (layer sym_outlines)
-  (width 0.254) (fill false) (grab_area true)
+  (width 0.254) (fill false) (grab_area false)
   (vertex (position -6.5 -7.6) (angle 60.0))
   (vertex (position -6.5 7.62) (angle 0.0))
  )
-
-
  (text 5da230d8-8ea3-422b-9985-add15861dd8e (layer sym_outlines) (value "{{NAME}}")
-  (align left bottom) (height 2.54) (position 0.0 7.62) (rotation 0.0)
+  (align left bottom) (height 2.54) (position -5.08 7.62) (rotation 0.0)
+ )
+ (text b5355f1a-1c44-4e34-8c27-d7ecf5d8042e (layer sym_outlines) (value "{{VALUE}}")
+  (align left bottom) (height 2.54) (position -5.08 -12.7) (rotation 0.0)
  )
 )
