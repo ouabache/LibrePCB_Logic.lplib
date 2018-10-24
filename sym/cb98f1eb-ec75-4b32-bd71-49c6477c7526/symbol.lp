@@ -18,12 +18,15 @@
  )
  (polygon ba40b8e7-ceb8-4424-800a-c4f45259cc1c (layer sym_outlines)
   (width 0.254) (fill false) (grab_area true)
-  (vertex (position -2.54 -7.6) (angle 50.0))
+  (vertex (position -2.54 -7.6) (angle 0.0))
+  (vertex (position  5.08 -7.6) (angle 50.0))
   (vertex (position 16.29 0.0) (angle 50.0))
+  (vertex (position  5.08  7.6) (angle 0.0))
   (vertex (position -2.54 7.6) (angle -50.0))
   (vertex (position -2.54 -7.6) (angle 0.0))
  )
- 
+
+
  (text 0f85061e-b746-4de0-83ed-825d8875b6f4 (layer sym_outlines) (value "{{NAME}}")
   (align left bottom) (height 2.54) (position -2.54 7.62) (rotation 0.0)
  )

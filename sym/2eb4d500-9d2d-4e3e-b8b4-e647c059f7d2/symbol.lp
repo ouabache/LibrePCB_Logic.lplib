@@ -16,13 +16,18 @@
  (pin 6950aa76-4756-4f82-961c-60bea6bcb2d2 (name "OUT")
   (position 22.86 0.0) (rotation 180.0) (length 3.9)
  )
+
  (polygon ba40b8e7-ceb8-4424-800a-c4f45259cc1c (layer sym_outlines)
   (width 0.254) (fill false) (grab_area true)
-  (vertex (position -2.54 -7.6) (angle 50.0))
+  (vertex (position -2.54 -7.6) (angle 0.0))
+  (vertex (position  5.08 -7.6) (angle 50.0))
   (vertex (position 16.29 0.0) (angle 50.0))
+  (vertex (position  5.08  7.6) (angle 0.0))
   (vertex (position -2.54 7.6) (angle -50.0))
   (vertex (position -2.54 -7.6) (angle 0.0))
  )
+ 
+
  (polygon 362646c0-7ccf-4231-af58-138b28c7594b (layer sym_outlines)
   (width 0.254) (fill false) (grab_area false)
   (vertex (position -3.96 -7.6) (angle 50.0))
