@@ -28,7 +28,7 @@
   (vertex (position 8.64 7.62) (angle 0.0))
  )
  (circle 721ede1c-ae05-4501-bfba-25d5502b9d9f (layer sym_outlines)
-  (width 0.254) (fill false) (grab_area false) (diameter 2.54) (position 17.75 0.0)
+  (width 0.254) (fill false) (grab_area false) (diameter 2.54) (position 17.78 0.0)
  )
  (text cb8816be-144f-49f3-b2f5-094053f076c0 (layer sym_outlines) (value "{{NAME}}")
   (align left bottom) (height 2.54) (position -5.08 7.62) (rotation 0.0)
