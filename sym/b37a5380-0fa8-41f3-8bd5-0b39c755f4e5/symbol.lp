@@ -16,6 +16,8 @@
  (pin d203cfee-a7cc-4384-a8c8-8fdb570de992 (name "OUT")
   (position 22.86 0.0) (rotation 180.0) (length 6.5)
  )
+
+
  (polygon eb8cb1f4-9cda-4bba-9434-7e5b95587b1b (layer sym_outlines)
   (width 0.254) (fill false) (grab_area true)
   (vertex (position 8.64 7.62) (angle 0.0))
@@ -24,6 +26,10 @@
   (vertex (position 8.64 -7.62) (angle 180.0))
   (vertex (position 8.64 7.62) (angle 0.0))
  )
+
+
+
+
  (text 0fb30c21-4a3b-4f09-a9da-8587740520b0 (layer sym_outlines) (value "{{NAME}}")
   (align left bottom) (height 2.54) (position -2.54 7.62) (rotation 0.0)
  )

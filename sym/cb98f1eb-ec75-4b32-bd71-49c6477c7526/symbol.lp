@@ -23,6 +23,7 @@
   (vertex (position -2.54 7.6) (angle -50.0))
   (vertex (position -2.54 -7.6) (angle 0.0))
  )
+ 
  (text 0f85061e-b746-4de0-83ed-825d8875b6f4 (layer sym_outlines) (value "{{NAME}}")
   (align left bottom) (height 2.54) (position -2.54 7.62) (rotation 0.0)
  )
