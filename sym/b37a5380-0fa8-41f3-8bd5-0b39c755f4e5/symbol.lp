@@ -6,7 +6,7 @@
  (version "0.1")
  (created 2018-10-21T22:31:15Z)
  (deprecated false)
- (category 0766f01a-8850-43f5-9ab1-631e2cd99a49)
+ (category 2a477bc3-9d8b-4abe-a85a-762e569d7cbd)
  (pin 618d3239-fd63-47a2-8da2-d0be75293c3d (name "A")
   (position -7.62 5.08) (rotation 0.0) (length 5.0)
  )
@@ -16,8 +16,6 @@
  (pin d203cfee-a7cc-4384-a8c8-8fdb570de992 (name "OUT")
   (position 22.86 0.0) (rotation 180.0) (length 6.5)
  )
-
-
  (polygon eb8cb1f4-9cda-4bba-9434-7e5b95587b1b (layer sym_outlines)
   (width 0.254) (fill false) (grab_area true)
   (vertex (position 8.64 7.62) (angle 0.0))
@@ -26,10 +24,6 @@
   (vertex (position 8.64 -7.62) (angle 180.0))
   (vertex (position 8.64 7.62) (angle 0.0))
  )
-
-
-
-
  (text 0fb30c21-4a3b-4f09-a9da-8587740520b0 (layer sym_outlines) (value "{{NAME}}")
   (align left bottom) (height 2.54) (position -2.54 7.62) (rotation 0.0)
  )

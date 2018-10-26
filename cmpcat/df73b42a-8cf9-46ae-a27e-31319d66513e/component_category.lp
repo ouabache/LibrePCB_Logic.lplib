@@ -1,0 +1,10 @@
+(librepcb_component_category df73b42a-8cf9-46ae-a27e-31319d66513e
+ (name "OR")
+ (description "")
+ (keywords "")
+ (author "ouabache design works")
+ (version "0.1")
+ (created 2018-10-26T17:36:19Z)
+ (deprecated false)
+ (parent 3e66a371-0e9d-4ac0-b9c3-5ccbae0ea099)
+)

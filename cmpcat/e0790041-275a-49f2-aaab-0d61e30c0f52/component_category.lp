@@ -1,0 +1,10 @@
+(librepcb_component_category e0790041-275a-49f2-aaab-0d61e30c0f52
+ (name "NOR")
+ (description "")
+ (keywords "")
+ (author "ouabache design works")
+ (version "0.1")
+ (created 2018-10-26T17:36:55Z)
+ (deprecated false)
+ (parent 3e66a371-0e9d-4ac0-b9c3-5ccbae0ea099)
+)

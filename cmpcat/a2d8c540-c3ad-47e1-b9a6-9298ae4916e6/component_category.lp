@@ -1,0 +1,10 @@
+(librepcb_component_category a2d8c540-c3ad-47e1-b9a6-9298ae4916e6
+ (name "COMBINATORIAL")
+ (description "")
+ (keywords "")
+ (author "ouabache design works")
+ (version "0.1")
+ (created 2018-10-26T17:39:23Z)
+ (deprecated false)
+ (parent 49a9082f-5060-4d2a-8c29-97bdb6a8dca9)
+)

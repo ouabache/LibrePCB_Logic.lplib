@@ -1,0 +1,10 @@
+(librepcb_component_category 1beaa75a-47e4-4ae8-9403-b8946bfa6f3d
+ (name "NAND")
+ (description "")
+ (keywords "")
+ (author "ouabache design works")
+ (version "0.1")
+ (created 2018-10-26T17:36:39Z)
+ (deprecated false)
+ (parent 3e66a371-0e9d-4ac0-b9c3-5ccbae0ea099)
+)

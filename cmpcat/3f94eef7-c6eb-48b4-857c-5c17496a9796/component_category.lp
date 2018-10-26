@@ -1,0 +1,10 @@
+(librepcb_component_category 3f94eef7-c6eb-48b4-857c-5c17496a9796
+ (name "REGISTERED")
+ (description "")
+ (keywords "")
+ (author "ouabache design works")
+ (version "0.1")
+ (created 2018-10-26T17:39:45Z)
+ (deprecated false)
+ (parent 49a9082f-5060-4d2a-8c29-97bdb6a8dca9)
+)

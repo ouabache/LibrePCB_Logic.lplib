@@ -1,0 +1,10 @@
+(librepcb_component_category 01481793-7fc2-49ba-ae1b-301b89ac8d76
+ (name "Symbol")
+ (description "")
+ (keywords "")
+ (author "ouabache design works")
+ (version "0.1")
+ (created 2018-10-26T17:34:09Z)
+ (deprecated false)
+ (parent none)
+)

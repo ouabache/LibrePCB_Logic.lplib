@@ -6,7 +6,7 @@
  (version "0.1")
  (created 2018-10-22T04:00:47Z)
  (deprecated false)
- (category 0766f01a-8850-43f5-9ab1-631e2cd99a49)
+ (category 2a477bc3-9d8b-4abe-a85a-762e569d7cbd)
  (pin 44e9f4a3-b77e-4433-a18e-e2c168c8f26d (name "A")
   (position -7.62 5.08) (rotation 0.0) (length 5.0)
  )
