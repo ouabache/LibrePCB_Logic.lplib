@@ -1,0 +1,10 @@
+(librepcb_component_category b1dce6f0-48e7-4f7f-86d8-4d7192d24cf3
+ (name "IC_PACKAGES")
+ (description "")
+ (keywords "")
+ (author "johne")
+ (version "0.1")
+ (created 2018-10-28T17:42:45Z)
+ (deprecated false)
+ (parent 01481793-7fc2-49ba-ae1b-301b89ac8d76)
+)
