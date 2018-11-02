@@ -10,7 +10,7 @@
  (schematic_only false)
  (default_value "")
  (prefix "U")
- (signal 2934ebee-cf35-436f-8aac-3f0bcb31e05d (name "OUT") (role passive)
+ (signal 2934ebee-cf35-436f-8aac-3f0bcb31e05d (name "Y") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
  )
  (signal aebbcc8b-9d59-4186-946d-d5c4e646efb3 (name "A") (role passive)

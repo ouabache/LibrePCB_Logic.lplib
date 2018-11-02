@@ -16,7 +16,7 @@
  (signal 5c581110-85a8-4e54-bf85-47fa936725a7 (name "A") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
  )
- (signal d62be31e-6684-4230-beb8-3aa2eb6e01ed (name "OUT") (role passive)
+ (signal d62be31e-6684-4230-beb8-3aa2eb6e01ed (name "Y") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
  )
  (variant 507cf09b-4af4-47aa-a379-665646281647 (norm "")
