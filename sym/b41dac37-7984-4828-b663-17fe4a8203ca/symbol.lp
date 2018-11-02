@@ -14,7 +14,7 @@
   (position -15.24 -5.08) (rotation 0.0) (length 6.0)
  )
  (pin 4636dabd-550b-449b-ab0b-d9ee161513d7 (name "Y")
-  (position 15.24 0.0) (rotation 180.0) (length 3.95)
+  (position 15.24 0.0) (rotation 180.0) (length 4.0)
  )
  (polygon ff39d0e9-a10d-4cba-b701-6f18cddc6980 (layer sym_outlines)
   (width 0.254) (fill false) (grab_area true)

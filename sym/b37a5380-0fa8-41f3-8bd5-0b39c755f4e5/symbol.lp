@@ -14,22 +14,17 @@
   (position -15.24 -5.08) (rotation 0.0) (length 5.0)
  )
  (pin d203cfee-a7cc-4384-a8c8-8fdb570de992 (name "Y")
-  (position 15.24 0.0) (rotation 180.0) (length 6.5)
+  (position 15.24 0.0) (rotation 180.0) (length 6.6)
  )
-
-
- (polygon  (layer sym_outlines)
+ (polygon 7d1f3625-51e8-4d01-99cd-5350fee53b7b (layer sym_outlines)
   (width 0.254) (fill false) (grab_area true)
-  (vertex (position 0.965201930403861 7.62001524003048) (angle 0.0))
-  (vertex (position -10.1600203200406 7.62001524003048) (angle 0.0))
-  (vertex (position -10.1600203200406 -7.62001524003048) (angle 0.0))
-  (vertex (position 0.965201930403861 -7.62001524003048) (angle 0.0))
-  (vertex (position 0.965201930403861 -7.62001524003048) (angle 179.8))
-  (vertex (position 0.965201930403861 7.62001524003048) (angle 0.0))
-  )
-
-
-
+  (vertex (position 0.965202 7.620015) (angle 0.0))
+  (vertex (position -10.16002 7.620015) (angle 0.0))
+  (vertex (position -10.16002 -7.620015) (angle 0.0))
+  (vertex (position 0.965202 -7.620015) (angle 0.0))
+  (vertex (position 0.965202 -7.620015) (angle 179.8))
+  (vertex (position 0.965202 7.620015) (angle 0.0))
+ )
  (text 0fb30c21-4a3b-4f09-a9da-8587740520b0 (layer sym_outlines) (value "{{NAME}}")
   (align left bottom) (height 2.54) (position -10.16 7.62) (rotation 0.0)
  )

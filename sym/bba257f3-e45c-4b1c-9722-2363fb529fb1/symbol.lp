@@ -1,5 +1,5 @@
 (librepcb_symbol bba257f3-e45c-4b1c-9722-2363fb529fb1
- (name "PWR_14")
+ (name "PWR")
  (description "")
  (keywords "")
  (author "ouabache design works")
