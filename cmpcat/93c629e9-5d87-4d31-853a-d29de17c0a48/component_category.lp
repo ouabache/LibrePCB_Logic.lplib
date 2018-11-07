@@ -1,0 +1,10 @@
+(librepcb_component_category 93c629e9-5d87-4d31-853a-d29de17c0a48
+ (name "IC")
+ (description "")
+ (keywords "")
+ (author "johne")
+ (version "0.1")
+ (created 2018-10-30T23:51:16Z)
+ (deprecated false)
+ (parent none)
+)

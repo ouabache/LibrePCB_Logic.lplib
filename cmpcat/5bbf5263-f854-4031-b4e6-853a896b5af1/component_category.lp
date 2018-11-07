@@ -1,0 +1,10 @@
+(librepcb_component_category 5bbf5263-f854-4031-b4e6-853a896b5af1
+ (name "7400 Logic")
+ (description "")
+ (keywords "")
+ (author "johne")
+ (version "0.1")
+ (created 2018-11-07T03:15:48Z)
+ (deprecated false)
+ (parent none)
+)

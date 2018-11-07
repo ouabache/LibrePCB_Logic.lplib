@@ -1,0 +1,10 @@
+(librepcb_component_category 4957154e-4c45-44a9-8088-6e17cf828c4b
+ (name "Logic_Combinatorial_Gates")
+ (description "")
+ (keywords "")
+ (author "johne")
+ (version "0.1")
+ (created 2018-10-30T23:51:16Z)
+ (deprecated false)
+ (parent none)
+)
