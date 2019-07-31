@@ -1,10 +1,10 @@
-(librepcb_library c37314dd-e927-4cff-bffb-61036b87479d
- (name "Logic")
- (description "Digital Logic Library")
+(librepcb_library 1b58e2fa-4680-4dce-811e-627dea9b080e
+ (name "LibrePCB_Logic")
+ (description "")
  (keywords "")
- (author "Ouabache Design Works")
+ (author "ouabacheDesignWorks")
  (version "0.1")
- (created 2018-10-20T23:36:03Z)
+ (created 2019-07-31T15:12:36Z)
  (deprecated false)
  (url "")
 )

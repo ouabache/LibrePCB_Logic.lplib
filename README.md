@@ -1,11 +1,8 @@
-# Logic
-
+# LibrePCB_Logic
 ## Description
 
 This is a [LibrePCB](https://librepcb.org) library!
-experimental digital library
-
-Not Released
+Just edit this file to add a description about it.
 
 ## License
 
