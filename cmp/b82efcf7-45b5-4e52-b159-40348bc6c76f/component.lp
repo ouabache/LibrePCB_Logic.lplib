@@ -6,7 +6,7 @@
  (version "0.1")
  (created 2019-07-31T20:16:59Z)
  (deprecated false)
- (category 8e4af7b5-cbff-4409-9698-f2b545218075)
+ (category 56f01b1d-0723-4c33-88f7-9968cf96b50f)
  (schematic_only false)
  (default_value "{{PARTNUMBER or DEVICE}}")
  (prefix "U")
