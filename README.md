@@ -2,7 +2,14 @@
 ## Description
 
 This is a [LibrePCB](https://librepcb.org) library!
-Just edit this file to add a description about it.
+
+Unofficial Digital Logic Library
+
+Maintained by John Eaton
+Ouabache DesignWorks
+
+z3qmtr45@gmail.com
+
 
 ## License
 
