@@ -1,6 +1,6 @@
 (librepcb_symbol b1f3fbdd-a76b-48a4-91b6-26b647b57cba
  (name "NOR2_dm")
- (description "And2 gate")
+ (description "Nor2 gate")
  (keywords "digital,logic,nor")
  (author "ouabacheDesignWorks")
  (version "0.1")
