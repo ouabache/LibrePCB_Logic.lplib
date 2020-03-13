@@ -1,5 +1,5 @@
 (librepcb_symbol f49baafe-3fdb-42c8-9481-577183e5c2ab
- (name "NAND8")
+ (name "NAND8_4")
  (description "Nand8 gate")
  (keywords "digital,logic,nand")
  (author "John Eaton")

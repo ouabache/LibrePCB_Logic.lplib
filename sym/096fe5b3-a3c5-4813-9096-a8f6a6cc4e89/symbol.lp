@@ -1,5 +1,5 @@
 (librepcb_symbol 096fe5b3-a3c5-4813-9096-a8f6a6cc4e89
- (name "BUFFERTS")
+ (name "BUFFERTS_4")
  (description "Buffer tristate")
  (keywords "digital,logic,buf")
  (author "ouabacheDesignWorks")

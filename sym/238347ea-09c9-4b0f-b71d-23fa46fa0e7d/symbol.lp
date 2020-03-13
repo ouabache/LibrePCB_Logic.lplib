@@ -1,5 +1,5 @@
 (librepcb_symbol 238347ea-09c9-4b0f-b71d-23fa46fa0e7d
- (name "AND7")
+ (name "AND7_4")
  (description "And7 gate")
  (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")

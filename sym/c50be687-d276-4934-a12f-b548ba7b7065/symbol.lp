@@ -1,5 +1,5 @@
 (librepcb_symbol c50be687-d276-4934-a12f-b548ba7b7065
- (name "BUFFERTS_N")
+ (name "BUFFERTS_N_4")
  (description "Buffer tristate active low enable")
  (keywords "digital,logic,buf")
  (author "ouabacheDesignWorks")

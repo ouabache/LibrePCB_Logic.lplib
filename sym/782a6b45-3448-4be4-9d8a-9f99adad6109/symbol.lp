@@ -1,5 +1,5 @@
 (librepcb_symbol 782a6b45-3448-4be4-9d8a-9f99adad6109
- (name "BUFFER")
+ (name "BUFFER_4")
  (description "Buffer")
  (keywords "digital,logic,buf")
  (author "ouabacheDesignWorks")

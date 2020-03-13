@@ -1,5 +1,5 @@
 (librepcb_symbol dc118934-41d7-49ab-a0fe-0fb78d2f31bc
- (name "AND8")
+ (name "AND8_4")
  (description "And8 gate")
  (keywords "digital,logic,and")
  (author "ouabacheDesignWorks")

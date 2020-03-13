@@ -1,5 +1,5 @@
 (librepcb_symbol a0159914-0a38-49c3-8988-3078277a340c
- (name "BARREL_SHIFTER_4")
+ (name "BARREL_SHIFTER4_4")
  (description "4 bit Barrel Shifter")
  (keywords "digital,logic,arithmetic")
  (author "ouabacheDesignWorks")

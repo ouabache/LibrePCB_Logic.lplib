@@ -1,5 +1,5 @@
 (librepcb_symbol 593981e4-44ff-475b-b577-d979d0802107
- (name "DFF")
+ (name "DFF_4")
  (description "D FlipFlop")
  (keywords "digital,logic,flipflop")
  (author "ouabacheDesignWorks")

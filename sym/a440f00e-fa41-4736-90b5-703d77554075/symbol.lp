@@ -1,5 +1,5 @@
 (librepcb_symbol a440f00e-fa41-4736-90b5-703d77554075
- (name "INVERTER")
+ (name "INVERTER_4")
  (description "Inverter")
  (keywords "digital,logic,inv")
  (author "ouabacheDesignWorks")

@@ -1,5 +1,5 @@
 (librepcb_symbol f1888812-c3b4-429c-89c7-91733dce245a
- (name "FULL_ADDER")
+ (name "FULL_ADDER_4")
  (description "Full Adder")
  (keywords "digital,logic,arithmetic")
  (author "ouabacheDesignWorks")

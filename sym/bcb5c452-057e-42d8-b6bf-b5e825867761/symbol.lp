@@ -1,5 +1,5 @@
 (librepcb_symbol bcb5c452-057e-42d8-b6bf-b5e825867761
- (name "OR8")
+ (name "OR8_4")
  (description "or8 gate")
  (keywords "digital,logic,or")
  (author "ouabacheDesignWorks")

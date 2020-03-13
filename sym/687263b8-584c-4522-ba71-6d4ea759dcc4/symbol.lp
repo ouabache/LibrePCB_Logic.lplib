@@ -1,5 +1,5 @@
 (librepcb_symbol 687263b8-584c-4522-ba71-6d4ea759dcc4
- (name "HALF_ADDER")
+ (name "HALF_ADDER_4")
  (description "Half Adder")
  (keywords "digital,logic,arithmetic")
  (author "ouabacheDesignWorks")
