@@ -8,7 +8,7 @@
  (deprecated false)
  (category 9212a13b-d12d-4d13-b2c3-07a6c86e5e5c)
  (schematic_only false)
- (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (default_value "{{PARTNUMBER or COMPONENT }}")
  (prefix "U")
  (signal 1f2fc2d9-8374-4928-bcb6-62ebdaa6a16a (name "CARRY") (role passive)
   (required false) (negated false) (clock false) (forced_net "")

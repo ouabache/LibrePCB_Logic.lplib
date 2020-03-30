@@ -8,7 +8,7 @@
  (deprecated false)
  (category 651dca6f-67a5-4ee3-a07f-ed028243a6e2)
  (schematic_only false)
- (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
+ (default_value "{{PARTNUMBER or COMPONENT }}")
  (prefix "U")
  (signal c9a86e19-f728-4575-826d-420cd8acf132 (name "A") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
