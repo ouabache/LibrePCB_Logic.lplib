@@ -36,7 +36,7 @@
  (text 54a5843a-90c5-4c75-9239-75cf13d33716 (layer sym_names) (value "{{NAME}}")
   (align left bottom) (height 2.54) (position -12.7 10.16) (rotation 0.0)
  )
- (text  62aac8ac-6b9e-413c-a931-c0c2e196a133 (layer sym_values) (value "{{VALUE}}")
+ (text 62aac8ac-6b9e-413c-a931-c0c2e196a133 (layer sym_values) (value "{{VALUE}}")
   (align left top) (height 2.54) (position -12.7 -10.16) (rotation 0.0)
  )
 )
